@@ -8,3 +8,4 @@ This is test1 4th line
 =======
 This is test1 third line
 >>>>>>> 150208e3c1fc10d69c5e23cc78dea5b7d38729ce
+Logo alignment is centred.
