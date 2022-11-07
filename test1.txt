@@ -1,6 +1,10 @@
 This is test 1.
 <<<<<<< HEAD
 This is test 1 second line.
+<<<<<<< HEAD
 =======
 This is test1 4th line
 >>>>>>> sumon1
+=======
+This is test1 third line
+>>>>>>> 150208e3c1fc10d69c5e23cc78dea5b7d38729ce
