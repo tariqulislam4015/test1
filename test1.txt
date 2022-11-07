@@ -1,2 +1,6 @@
 This is test 1.
+<<<<<<< HEAD
 This is test 1 second line.
+=======
+This is test1 4th line
+>>>>>>> sumon1
